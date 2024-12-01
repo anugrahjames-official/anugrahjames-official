@@ -1,7 +1,7 @@
 Aspiring Computer Science Enthusiast | Passionate Learner | Future Innovator
 
 📍 Location: Kannur District, Kerala, India
-👦 Age: 17
+👦 Age: 18
 
 🎓 Education: Completed +1 in Computer Science at St. Joseph's Higher Secondary School, Vayattuparamba, Kerala. Eagerly awaiting to embark on the +2 journey in Computer Science.
 
