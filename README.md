@@ -26,3 +26,15 @@ Let's connect and explore the endless possibilities together!
 🔗 LinkedIn: @anugrah-james
 📸 Instagram: @anugrahjames_official
 🕊️ Twitter: @AnugrahJames_AJ
+
+## Support My Work
+
+If you find my projects helpful and wish to support my work, consider sponsoring me through the following methods:
+
+- **GitHub Sponsors**: [Sponsor me](https://github.com/sponsors/anugrahjames-official)
+- **UPI**: `anugrahjamesofficial@axl`
+- **Bank Transfer**:
+  - **Account Holder Name**: Anugrah James
+  - **Account Number**: 17110100109931
+  - **Bank Name**: Federal Bank Alakode
+  - **IFSC Code**: FDRL0001711
