@@ -36,5 +36,5 @@ If you find my projects helpful and wish to support my work, consider sponsoring
 - **Bank Transfer**:
   - **Account Holder Name**: Anugrah James
   - **Account Number**: 17110100109931
-  - **Bank Name**: Federal Bank Alakode
+  - **Bank Name**: Federal Bank
   - **IFSC Code**: FDRL0001711
