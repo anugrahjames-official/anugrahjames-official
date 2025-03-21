@@ -1,5 +1,4 @@
-Aspiring Computer Science Enthusiast | Passionate Learner | Future Innovator
-
+Aspiring Computer Science Enthusiast | Passionate Learner | Future Innovator | Founder
 📍 Location: Kannur District, Kerala, India
 👦 Age: 18
 
