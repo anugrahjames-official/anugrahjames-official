@@ -1,4 +1,4 @@
-# From Tech Enthusiast to Founder | Software Developer | Self-Taught Innovator
+# From Tech Enthusiast to Founder | Software Engineer | Self-Taught Innovator
 
 ![Location](https://img.shields.io/badge/Location-Kannur,%20Kerala,%20India-blue)
 ![Age](https://img.shields.io/badge/Age-18-brightgreen)
