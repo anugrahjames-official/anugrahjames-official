@@ -7,7 +7,7 @@
 
 From tech enthusiast to founder—my journey began at 13 when I completed ethical hacking courses while most kids were playing video games. That early passion sparked a lifelong pursuit of technological mastery.
 
-Today, I'm the **Founder & Developer of College Concierge**, building solutions that bridge educational institutions and student needs. While College Concierge is my current focus, I remain open to opportunities aligned with my vision of technology as a positive force.
+Today, I'm the **Founder & Software Engineer of College Concierge**, building solutions that bridge educational institutions and student needs. While College Concierge is my current focus, I remain open to opportunities aligned with my vision of technology as a positive force.
 
 What sets me apart is my self-taught expertise in areas never covered in the classroom. This commitment to independent learning positions me at the intersection of academic knowledge and practical implementation—uniquely equipping me to understand both theoretical frameworks and real-world applications.
 
