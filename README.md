@@ -1,5 +1,5 @@
 # Hi 👋, I'm Anugrah James
-**Founder & Software Engineer @College-Concierge || Computer Science Undergrad || Self-Taught Innovator**
+**Founder & Software Engineer @College Concierge || Computer Science Undergrad || Self-Taught Innovator**
 
 ## 🚀 About Me
 ![Age](https://img.shields.io/badge/Age-18-brightgreen)
