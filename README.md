@@ -70,4 +70,4 @@ If my work helps or inspires you, consider supporting it:
 
 ---
 
-_“Let’s connect and explore how we might build something extraordinary together.”_
+_Let’s connect and explore how we might build something extraordinary together._
