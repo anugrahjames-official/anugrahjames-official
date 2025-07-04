@@ -9,8 +9,7 @@ From ethical hacking at 13 to launching an open-source Ed-Tech startup as a teen
 I’m a self-taught innovator who thrives at the intersection of real-world implementation and technical excellence. Whether it’s full-stack apps, AI-assisted workflows, or server infra—I dive deep, build independently, and optimize for impact.
 
 ##### 🌐 Socials
-
-###### Connect with Me: [www.anugrahjames-official.github.io/anugrahjames/](https://anugrahjames-official.github.io/anugrahjames/)
+##### Connect with Me: [www.anugrahjames-official.github.io/anugrahjames/](https://anugrahjames-official.github.io/anugrahjames/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anugrah-james) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anugrahjames_official) [![Twitter/X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AnugrahJames_AJ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@anugrahjames_official) [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anugrahjames2006@gmail.com)
 
