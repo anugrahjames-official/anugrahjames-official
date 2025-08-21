@@ -1,10 +1,10 @@
 # Hi 👋, I'm Anugrah James
-**Founder & Software Engineer @College Concierge || Computer Science Undergrad || Self-Taught Innovator**
+**Founder & CTO of College Concierge || Computer Science Undergrad || Self-Taught Innovator**
 
 ## 🚀 About Me
 ![Age](https://img.shields.io/badge/Age-18-brightgreen)
 
-From ethical hacking at 13 to launching an open-source Ed-Tech startup as a teen, I’ve always followed one path: **learn fast, build faster**. Now, I'm the **Founder & Software Engineer of College Concierge**, an AI-powered platform built to help students make better decisions about higher education in India.
+From ethical hacking at 13 to launching an open-source Ed-Tech startup as a teen, I’ve always followed one path: **learn fast, build faster**. Now, I'm the **Founder & CTO of College Concierge**, an AI-powered platform built to help students make better decisions about higher education in India.
 
 I’m a self-taught innovator who thrives at the intersection of real-world implementation and technical excellence. Whether it’s full-stack apps, AI-assisted workflows, or server infra—I dive deep, build independently, and optimize for impact.
 
