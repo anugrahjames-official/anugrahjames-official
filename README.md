@@ -6,7 +6,7 @@
 
 From ethical hacking at 13 to launching an open-source Ed-Tech startup as a teen, I’ve always followed one path: **learn fast, build faster**. Now, I'm the **Founder & CTO of College Concierge**, an AI-powered platform built to help students make better decisions about higher education in India.
 
-I’m a self-taught innovator who thrives at the intersection of real-world implementation and technical excellence. Whether it’s full-stack apps, AI-assisted workflows, or server infra—I dive deep, build independently, and optimize for impact.
+I’m a self-taught innovator who thrives at the intersection of real-world implementation and technical excellence. Whether it’s full-stack apps, AI-assisted workflows, or server infra, build independently, and optimize for impact.
 
 ##### 🌐 Socials
 
