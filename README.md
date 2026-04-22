@@ -2,7 +2,7 @@
 **Founder & CTO of College Concierge | Computer Science Undergrad | Self-Taught Innovator**
 
 ## 🚀 About Me
-![Age](https://img.shields.io/badge/Age-18-brightgreen)
+![Age](https://img.shields.io/badge/Age-19-brightgreen)
 
 From ethical hacking at 13 to launching an open-source Ed-Tech startup as a teen, I’ve always followed one path: **learn fast, build faster**. Now, I'm the **Founder & CTO of College Concierge**, an AI-powered platform built to help students make better decisions about higher education in India.
 
